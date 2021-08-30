@@ -3,10 +3,10 @@ A Simple Responsive to do list, using Node Express and EJS.
 
 
 Setup Guide:
--cd current_directory
--npm init
--npm i nodemon express body-parser https
--nodemon app.js
+- cd current_directory
+- npm init
+- npm i nodemon express body-parser https
+- nodemon app.js
 
 Screenshots:
 
